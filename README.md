@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Murilo V." title="#Murilo V." src="./assets/readme-banner.png" />
+    <img alt="Murilo V." title="#Murilo V." src="./assets/banner.png" />
 </h1>
 
 # Hello, you is welcome to explore the repositories in this profile ;)
