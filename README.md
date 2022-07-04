@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Murilo-V&color=309C01" alt="Profile views" /> </p>
 <h1 align="center">
     <img alt="Murilo V." title="#Murilo V." src="./assets/banner.png" />
 </h1>
