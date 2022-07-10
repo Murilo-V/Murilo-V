@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Murilo-V&color=309C01" alt="Profile views" /> </p>
+[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/shelf.dev/)
 <h1 align="center">
     <img alt="Murilo V." title="#Murilo V." src="./assets/banner.png" />
 </h1>
